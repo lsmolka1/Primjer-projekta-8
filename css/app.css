@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    color: white;
+}
+
+.slika1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slika2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slika3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slika4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
